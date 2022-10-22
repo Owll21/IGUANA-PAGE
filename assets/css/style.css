@@ -1,0 +1,83 @@
+html {
+    box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
+h1{
+    margin: 0%;
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+h3{
+    font-size: 25px ;
+    font-family: 'Raleway', sans-serif; 
+    font-weight: lighter;
+
+}
+h4{
+    margin: 0%;
+    padding-top: 39px;
+    padding-bottom: 39px;
+}
+.style-font{
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: lighter;
+}
+.fondo-black{
+background-color: black;
+}
+.texto-w{
+    color: white;
+}
+.centrar-tx{
+    text-align: center;
+}
+.img-header{
+    background-image: url("../img/bg-header.jpg");
+    height: 1250px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.display-ib{
+    display: inline-block;
+}
+.width-49{
+    width: 49%;
+}
+.width-32{
+    width: 32%;
+}
+.width-icon{
+    width: 50px;
+}
+.pos-vertical{
+    vertical-align: middle;
+}
+.pad-vert{
+ padding-top: 32px;
+ padding-bottom: 32px;   
+}
+.fondo-carac{
+    background-color: #1E1A13;
+}
+.img-sect{
+    height: 202px;
+    padding: 2px;
+
+}
